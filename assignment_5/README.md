@@ -6,7 +6,7 @@
 * *noise.py* to get the noise model and whiten the data
 * *waves.py* to plot the noise model and matched filters
 
-I saved the generated figures for parts a) to d): 
+I saved the generated figures for parts a) to d). They are also shown in the main file.
 * noise_models.png
 * matched_filters_plot.png
 * signal_to_noise_ratio_plots.png
